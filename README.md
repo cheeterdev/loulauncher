@@ -3,6 +3,7 @@
 ![Website](https://img.shields.io/badge/Web-_cheeterweb.github.io-orange?style=for-the-badge)
 ![Modrinth](https://img.shields.io/badge/THX%20TO-_modrinth.com-orange?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-_cheeterdev-orange?style=for-the-badge)
+![Creator](https://img.shields.io/badge/Creator-Kuki-orange?style=for-the-badge)
 
 ## Lou Launcher Source Code
 
